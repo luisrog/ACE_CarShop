@@ -1,0 +1,4 @@
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\Helper\bin\Debug\Helper.dll
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\Helper\bin\Debug\Helper.pdb
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\Helper\obj\Debug\Helper.dll
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\Helper\obj\Debug\Helper.pdb

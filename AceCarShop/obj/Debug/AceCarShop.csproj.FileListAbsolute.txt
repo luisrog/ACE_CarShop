@@ -1,4 +1,3 @@
-C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\AceCarShop\obj\Debug\AceCarShop.csprojResolveAssemblyReference.cache
 C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\AceCarShop\bin\AceCarShop.dll.config
 C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\AceCarShop\bin\AceCarShop.dll
 C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\AceCarShop\bin\AceCarShop.pdb
@@ -41,3 +40,4 @@ C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\AceCarShop\bin\
 C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\AceCarShop\bin\Ext.Net.xml
 C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\AceCarShop\bin\Ext.Net.Utilities.xml
 C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\AceCarShop\bin\Newtonsoft.Json.xml
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\AceCarShop\obj\Debug\AceCarShop.csprojResolveAssemblyReference.cache
