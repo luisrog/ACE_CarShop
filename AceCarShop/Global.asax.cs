@@ -15,7 +15,6 @@ namespace AceCarShop
         {
             // Code that runs on application startup
             BundleConfig.RegisterBundles(BundleTable.Bundles);
-            AuthConfig.RegisterOpenAuth();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
         }
 
