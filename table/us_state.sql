@@ -32,3 +32,33 @@
   ALTER TABLE "U_APP"."US_STATE" MODIFY ("USERCREATE" NOT NULL ENABLE);
   ALTER TABLE "U_APP"."US_STATE" MODIFY ("NAME" NOT NULL ENABLE);
   ALTER TABLE "U_APP"."US_STATE" MODIFY ("ID" NOT NULL ENABLE);
+--------------------------------------------------------
+--  DDL for Trigger US_STATE_TRG1
+--------------------------------------------------------
+
+  CREATE OR REPLACE EDITIONABLE TRIGGER "U_APP"."US_STATE_TRG1" 
+BEFORE INSERT ON US_STATE 
+FOR EACH ROW 
+BEGIN
+  <<COLUMN_SEQUENCES>>
+  BEGIN
+    NULL;
+  END COLUMN_SEQUENCES;
+END;
+/
+ALTER TRIGGER "U_APP"."US_STATE_TRG1" ENABLE;
+--------------------------------------------------------
+--  DDL for Trigger US_STATE_TRG
+--------------------------------------------------------
+
+  CREATE OR REPLACE EDITIONABLE TRIGGER "U_APP"."US_STATE_TRG" 
+BEFORE INSERT ON US_STATE 
+FOR EACH ROW 
+BEGIN
+  <<COLUMN_SEQUENCES>>
+  BEGIN
+    NULL;
+  END COLUMN_SEQUENCES;
+END;
+/
+ALTER TRIGGER "U_APP"."US_STATE_TRG" ENABLE;
