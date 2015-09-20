@@ -35,3 +35,9 @@ C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\AceCarShop\bin\
 C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\AceCarShop\bin\Microsoft.AspNet.FriendlyUrls.xml
 C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\AceCarShop\obj\Debug\AceCarShop.dll
 C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\AceCarShop\obj\Debug\AceCarShop.pdb
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\AceCarShop\bin\Ext.Net.dll
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\AceCarShop\bin\Ext.Net.Utilities.dll
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\AceCarShop\bin\Newtonsoft.Json.dll
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\AceCarShop\bin\Ext.Net.xml
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\AceCarShop\bin\Ext.Net.Utilities.xml
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\AceCarShop\bin\Newtonsoft.Json.xml
