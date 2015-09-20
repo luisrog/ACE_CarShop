@@ -1,0 +1,11 @@
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\BLAceCarShop\obj\Debug\BLAceCarShop.csprojResolveAssemblyReference.cache
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\BLAceCarShop\bin\Debug\BLAceCarShop.dll
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\BLAceCarShop\bin\Debug\BLAceCarShop.pdb
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\BLAceCarShop\bin\Debug\DAAceCarShop.dll
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\BLAceCarShop\bin\Debug\EAceCarShop.dll
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\BLAceCarShop\bin\Debug\Helper.dll
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\BLAceCarShop\bin\Debug\DAAceCarShop.pdb
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\BLAceCarShop\bin\Debug\EAceCarShop.pdb
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\BLAceCarShop\bin\Debug\Helper.pdb
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\BLAceCarShop\obj\Debug\BLAceCarShop.dll
+C:\Users\Eleven\Documents\Visual Studio 2013\Projects\AceCarShop\BLAceCarShop\obj\Debug\BLAceCarShop.pdb
